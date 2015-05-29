@@ -37,3 +37,7 @@ func main() {
 
 It does not return with the full [Release response object](https://developer.github.com/v3/repos/releases/)
 but only with useful fields that related to an application update request.
+
+### Why release?
+
+Because I need to test the API Endpoint somewhere and why not with the same repo. So nothing more (yet)
