@@ -15,7 +15,7 @@ import GRC "github.com/yitsushi/github-release-check"
 import "fmt"
 
 const (
-  RepoOwner string = "Yitsushi"
+  RepoOwner string = "yitsushi"
   RepoName  string = "Server-For-React"
   Version   string = "v1.0"
 )
